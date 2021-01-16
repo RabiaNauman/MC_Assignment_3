@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="General">
+        <menu>
+            <item android:title="Calculator"
+                android:id="@+id/cal"
+                android:icon="@drawable/ic_baseline_calculate_24"></item>
+            <item android:title="QuizApp"
+                android:id="@+id/quizapp"
+                android:icon="@drawable/ic_baseline_bookmark_border_24"></item>
+
+        </menu>
+    </item>
+</menu>
